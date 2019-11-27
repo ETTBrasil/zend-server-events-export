@@ -1,0 +1,14 @@
+{
+  "name" : "events-export",
+  "display_name" : "Events Export",
+  "version" : "1.0.0",
+  "type": ["ui"],
+  "logo": "logo.png",
+  "eula": "LICENSE.txt",
+  "readme": "README.md",
+  "dependencies": {
+    "plugin": {
+        "min": "1.0.0"
+    }
+  }
+}
